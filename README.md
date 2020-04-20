@@ -1,5 +1,5 @@
 # Deep-Learnning
-Juego de la vida del matemático británico John Horton Conway
+Juego de la vida del matemático británico John Horton Conway 
 
 <p align="center">
             <img src="Gif.gif" alt="Juego de la vida | Versión 1 Danny Lozano"/>
@@ -20,3 +20,9 @@ Juego de la vida del matemático británico John Horton Conway
 - Click izquierdo da "vida" a una celula o celda
 
 - Click derecho "mata" una celula o celda
+
+## Requerimientos:
+
+- Numpy
+
+- PyGame
