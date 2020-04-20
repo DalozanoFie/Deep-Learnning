@@ -2,10 +2,10 @@
 Juego de la vida del matemático británico John Horton Conway
 
 <p align="center">
-    <a
             <img src="Gif.gif" alt="Juego de la vida | Versión 1 Danny Lozano"/>
     </a>
 </p>
+
 
 # Reglas:
 
